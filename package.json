@@ -1,0 +1,25 @@
+{
+  "name": "express-aws-deploy",
+  "version": "1.0.0",
+  "description": "project to deploy express app on aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmaypatil/node-express-aws-deploy.git"
+  },
+  "keywords": [
+    "aws"
+  ],
+  "author": "Tanmay Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmaypatil/node-express-aws-deploy/issues"
+  },
+  "homepage": "https://github.com/tanmaypatil/node-express-aws-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
